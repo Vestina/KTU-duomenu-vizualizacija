@@ -1,38 +1,35 @@
 # R Laboratorinis darbas: duomenų vizualizacija
 
 | Variantas | ecoActCode |
-|------------- | ------------- |
-|20   | 11111111111 |
-
+|-----------|------------|
+| 19        | 620000     |
 
 ### 1. Užduotis
 
 Atsakymas:
 
-![histograma](img/pavyzdys1.png)
+![histograma](img/1_histograma.png)
 
-Išvados:
+Išvados: Vidutinis metinis atlyginimas siekia 250000 eurus, o aukščiausias metinis atlyginimas viršija 1,5 mil. eurų.
 
 ### 2. Užduotis
 
 Atsakymas:
 
-![atlyginimai](img/pavyzdys2.png)
+![atlyginimai](img/2_menesiai.png)
 
-Išvados:
-
+Išvados: Penkių aukščiausią vidutinį metinį atlyginimą siekiančių įmonių atlyginimai beveik visada siekė bent 250000 eur. Įmonėje „MICROSOFT LIETUVA" atlyginimai ženkliai pakilo liepos mėnesį ir krito rugsėjį.
 
 ### 3. Užduotis
 
 Atsakymas:
 
-![apdraustieji](img/pavyzdys3.png)
+![apdraustieji](img/3_apdrausti.png)
 
-Išvados:
-
+Išvados: Iš penkių geriausiai apmokamų įmonių, daugiausia apdrasutų darbuotojų yra „UAB RAILSBANK TECHNOLOGY".
 
 ### 4. Užduotis
 
 Shiny R aplikacijos nuotrauka:
 
-![shiny app](img/shiny_example.png)
+![shiny app](img/4_shiny.png) ![shiny app](img/5_shiny.png)
